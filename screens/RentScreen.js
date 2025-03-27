@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 export default function RentScreen() {
   return (
     <View style={styles.container}>
-      <Text>Alquiler</Text>
+      <Text>Esta es la pantalla de Alquiler</Text>
     </View>
   );
 }
